@@ -1,0 +1,73 @@
+[0.000][INFO]:      ChromeDriver 26.0.1383.0 C:\Users\skashem\Desktop\chromedriver\chromedriver.exe
+[0.522][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chromeOptions": {
+      "args": [  ],
+      "binary": "",
+      "extensions": [  ]
+   },
+   "javascriptEnabled": true,
+   "platform": "ANY",
+   "version": ""
+}
+
+[0.523][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --enable-logging --log-level=1 --ignore-certificate-errors about:blank
+[6.073][INFO]:      Connected to Chrome successfully. Version: 25.0.1364.97
+[6.080][FINE]:      Command received (/session/bd656e1e37b2d946ad2c0ea477d33e83)
+[6.080][FINE]:      Command finished (/session/bd656e1e37b2d946ad2c0ea477d33e83) with response {
+   "sessionId": "bd656e1e37b2d946ad2c0ea477d33e83",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "26.0.1383.0",
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "25.0.1364.97",
+      "webStorageEnabled": true
+   }
+}
+
+[6.093][FINE]:      Command received (/session/bd656e1e37b2d946ad2c0ea477d33e83/url) with params {
+   "sessionId": "bd656e1e37b2d946ad2c0ea477d33e83",
+   "url": "http://staging.totsy.com"
+}
+
+[6.093][FINER]:     Waiting for all views to stop loading...
+[6.094][FINER]:     Done waiting for all views to stop loading
+[9.729][FINER]:     Waiting for all views to stop loading...
+[9.732][FINER]:     Done waiting for all views to stop loading
+[9.732][FINE]:      Command finished (/session/bd656e1e37b2d946ad2c0ea477d33e83/url) with response {
+   "sessionId": "bd656e1e37b2d946ad2c0ea477d33e83",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[9.735][FINE]:      Command received (/session/bd656e1e37b2d946ad2c0ea477d33e83/timeouts/implicit_wait) with params {
+   "ms": 30000.0,
+   "sessionId": "bd656e1e37b2d946ad2c0ea477d33e83"
+}
+
+[9.735][FINER]:     Waiting for all views to stop loading...
+[9.738][FINER]:     Done waiting for all views to stop loading
+[9.739][FINER]:     Waiting for all views to stop loading...
+[9.740][FINER]:     Done waiting for all views to stop loading
+[9.740][FINE]:      Command finished (/session/bd656e1e37b2d946ad2c0ea477d33e83/timeouts/implicit_wait) with response {
+   "sessionId": "bd656e1e37b2d946ad2c0ea477d33e83",
+   "status": 0,
+   "value": {
+
+   }
+}
+
