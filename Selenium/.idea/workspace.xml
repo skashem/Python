@@ -4,7 +4,7 @@
     <list default="true" id="8418aa60-c792-4f84-86d1-c31fb6dd9642" name="Default" comment="" />
     <ignored path="Selenium.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8418aa60-c792-4f84-86d1-c31fb6dd9642" time="1363029764465" ignored="false" />
+    <file path="/Dummy.txt" changelist="8418aa60-c792-4f84-86d1-c31fb6dd9642" time="1363104464212" ignored="false" />
     <file path="/first_script.py" changelist="8418aa60-c792-4f84-86d1-c31fb6dd9642" time="1362675153524" ignored="false" />
     <file path="$PROJECT_DIR$/../untitled/.idea/workspace.xml" changelist="8418aa60-c792-4f84-86d1-c31fb6dd9642" time="1361388504016" ignored="false" />
     <file path="/second script.py" changelist="8418aa60-c792-4f84-86d1-c31fb6dd9642" time="1363032346076" ignored="false" />
@@ -22,6 +22,7 @@
     <file path="/yy.py" changelist="8418aa60-c792-4f84-86d1-c31fb6dd9642" time="1362511124071" ignored="false" />
     <file path="/f.py" changelist="8418aa60-c792-4f84-86d1-c31fb6dd9642" time="1362694614272" ignored="false" />
     <file path="/account.py" changelist="8418aa60-c792-4f84-86d1-c31fb6dd9642" time="1362682793944" ignored="false" />
+    <file path="/Functions.py" changelist="8418aa60-c792-4f84-86d1-c31fb6dd9642" time="1363099553584" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +39,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="second script.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Log_In/second script.py">
+      <file leaf-file-name="Functions.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Log_in/Functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="1384" selection-end="1384" vertical-scroll-proportion="0.7728285">
+            <state line="29" column="0" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.8">
               <folding>
-                <element signature="e#1#31#0" expanded="true" />
+                <element signature="e#0#65#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,8 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/first_script.py" />
-        <option value="$PROJECT_DIR$/second script.py" />
         <option value="$PROJECT_DIR$/practice.py" />
         <option value="$PROJECT_DIR$/Log_In/driver_script.py" />
         <option value="$PROJECT_DIR$/Log_In/for_practice.py" />
@@ -83,6 +82,8 @@
         <option value="$PROJECT_DIR$/Log_In/f.py" />
         <option value="$PROJECT_DIR$/Log_In/first_script.py" />
         <option value="$PROJECT_DIR$/Log_In/second script.py" />
+        <option value="$PROJECT_DIR$/Log_In/Functions.py" />
+        <option value="$PROJECT_DIR$/Log_in/Functions.py" />
       </list>
     </option>
   </component>
@@ -130,76 +131,6 @@
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 2.7.3 (C:/Python27/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Selenium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 2.7.3 (C:/Python27/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site-packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Selenium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 2.7.3 (C:/Python27/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site-packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Selenium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 2.7.3 (C:/Python27/python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site-packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -221,7 +152,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Log_In" />
+              <option name="myItemId" value="Log_in" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -235,7 +166,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Account_Tabs" />
+              <option name="myItemId" value="Links" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -246,11 +177,11 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -265,7 +196,7 @@
       <recent name="C:\Users\skashem\PycharmProjects\Selenium\Log_In" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.second script">
+  <component name="RunManager" selected="Python.Functions">
     <configuration default="false" name="first_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,23 +248,6 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="f" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Log_In" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <module name="Selenium" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Log_In/f.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
     <configuration default="false" name="second script" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,6 +260,23 @@
       <module name="Selenium" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Log_In/second script.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Log_in" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="Selenium" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Log_in/Functions.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -408,16 +339,16 @@
       <item index="0" class="java.lang.String" itemvalue="Python.first_script" />
       <item index="1" class="java.lang.String" itemvalue="Python.More Links Verfication" />
       <item index="2" class="java.lang.String" itemvalue="Python.Links verfification" />
-      <item index="3" class="java.lang.String" itemvalue="Python.f" />
-      <item index="4" class="java.lang.String" itemvalue="Python.second script" />
+      <item index="3" class="java.lang.String" itemvalue="Python.second script" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Functions" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.second script" />
-        <item index="1" class="java.lang.String" itemvalue="Python.first_script" />
-        <item index="2" class="java.lang.String" itemvalue="Python.More Links Verfication" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Links verfification" />
-        <item index="4" class="java.lang.String" itemvalue="Python.f" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Functions" />
+        <item index="1" class="java.lang.String" itemvalue="Python.second script" />
+        <item index="2" class="java.lang.String" itemvalue="Python.first_script" />
+        <item index="3" class="java.lang.String" itemvalue="Python.More Links Verfication" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Links verfification" />
       </list>
     </recent_temporary>
   </component>
@@ -450,17 +381,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.75757575" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33409092" sideWeight="0.75757575" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34621212" sideWeight="0.7584" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24242425" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2416" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -532,6 +463,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Log_in/Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1311" selection-end="1311" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Log_in/Functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://C:/Python27/Lib/site-packages/selenium/webdriver/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="0" selection-start="1251" selection-end="1251" vertical-scroll-proportion="0.7665904" />
@@ -547,99 +496,41 @@
         <state line="82" column="0" selection-start="3029" selection-end="3029" vertical-scroll-proportion="0.9221968" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Account_Tabs/account.py">
+    <entry file="file://$PROJECT_DIR$/Log_in/for_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/yy.py">
+    <entry file="file://$PROJECT_DIR$/Log_in/chromedriver.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/More Links Verfication.py">
+    <entry file="file://$PROJECT_DIR$/Log_in/Sign-In and place order.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.2236842" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/practice.py">
+    <entry file="file://$PROJECT_DIR$/Links/More Links Verfication.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="12" column="26" selection-start="342" selection-end="342" vertical-scroll-proportion="0.519084" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/Links verfification.py">
+    <entry file="file://$PROJECT_DIR$/Links/Links verfification.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="26" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/functions.py">
+    <entry file="file://$PROJECT_DIR$/Log_in/Add credit card and new card.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/for_practice.py">
+    <entry file="file://$PROJECT_DIR$/Log_in/Functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/f.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="14" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="418" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/chromedriver.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/first_script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="0" selection-start="4623" selection-end="4623" vertical-scroll-proportion="0.76605505">
+        <state line="29" column="0" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.8">
           <folding>
             <element signature="e#0#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/Add credit card and new card.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="2022" selection-end="2022" vertical-scroll-proportion="1.3646789">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Log_In/second script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1384" selection-end="1384" vertical-scroll-proportion="0.7728285">
-          <folding>
-            <element signature="e#1#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
